@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(213, 213, 213);
+    width: 98%;
+    height: 100%;
+
+}
+
+.ul1 {
+    border-style: inset;
+
+}
+
+.ilbl {
+    display: inline;
+    margin: 20px;
+
+
+}
+
+header {
+    border-style: inset;
+    width: 100%;
+    font-style: oblique;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    border-style: inset;
+}
+
+p {
+    text-align: justify;
+}
+
+table,
+th,
+td {
+    border-style: inset;
+    border: 1px solid;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 350px;
+
+}
+
+.imagem {
+    border-style: inset;
+    margin-left: 75px;
+
+}
+
+div {
+    width: 70%;
+    display: inline-block;
+}
+
+
+aside{
+    display: inline-block;
+    border-style: inset;
+    height: 55px;
+    width: 255px;
+    margin-left: 75px;
+    background-color: #698D01;
+}
+
+.tit {
+    margin-left: 10px;
+    ;
+}
+
+.footer2{
+    margin-left: 10px;
+}
+
+.parag{
+    width: 95%;
+}
