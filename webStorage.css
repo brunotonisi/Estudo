@@ -1,0 +1,30 @@
+body {
+    background-color: #EFD7B7;
+    width: 98%;
+    height: 100%;
+
+}
+
+
+.p1{
+    text-align: justify;
+    width: 48%;
+    float:left;
+    margin-left:5px;
+}
+.p2{
+    text-align: justify;
+    width: 48%;
+    float:right;
+    margin-right: 8px;
+}
+
+h2{
+    width: 50%;
+}
+.img{
+    width:3%;
+}
+
+
+
